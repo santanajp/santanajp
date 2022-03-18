@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-<p align="center"> <img src="https://i.imgur.com/O0zrESd.png" alt='capa custom image'> </p>
+<p align="center"> <img src="https://i.imgur.com/pb4ZHbJ.png" alt='capa custom image'> </p>
 
 <p> </p>
 
