@@ -7,7 +7,7 @@
   - 💻 Web Front-End development with HTML, CSS and JavaScript;<br>
   - 📱⠀Mobile apps development with Flutter;<br>
   - 📁 I'm learning about Database development with MySQL;<br>
-  - 🎮 I'm love video games!
+  - 🎮 I love video games!
 </p>
 <br>
 
